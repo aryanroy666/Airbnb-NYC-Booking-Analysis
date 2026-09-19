@@ -24,7 +24,6 @@ Exploratory data analysis of **48,895 New York City Airbnb listings (2019)**. Th
 - [Tech stack](#tech-stack)
 - [Repository structure](#repository-structure)
 - [Getting started](#getting-started)
-- [Author](#author)
 
 ## Business problem
 
@@ -166,13 +165,6 @@ jupyter notebook Airbnb_Bookings_Analysis.ipynb
 
 Run all cells top to bottom (**Kernel → Restart & Run All**). The notebook stops with a clear message if the dataset is missing, and it re-exports the charts to `images/` on each run (set `SAVE_FIGURES = False` in the setup cell to disable this).
 
-## Author
-
-**Aryan Roy** — Data Analyst based in Kolkata, India.
-MCS in AI/ML, IIT Guwahati · BBA, DAITM.
-
-- LinkedIn: `<your-linkedin-url>`
-- GitHub: [`@<your-username>`](https://github.com/<your-username>)
 
 ## License
 
