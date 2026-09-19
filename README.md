@@ -4,7 +4,6 @@
 ![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 Exploratory data analysis of **48,895 New York City Airbnb listings (2019)**. The project cleans and validates the raw data, then answers four business questions: where supply is concentrated, how prices behave, which listing decisions coincide with stronger guest engagement, and how much of the market is run by professional multi-listing hosts.
 
@@ -24,7 +23,6 @@ Exploratory data analysis of **48,895 New York City Airbnb listings (2019)**. Th
 - [Tech stack](#tech-stack)
 - [Repository structure](#repository-structure)
 - [Getting started](#getting-started)
-- [Author](#author)
 
 ## Business problem
 
