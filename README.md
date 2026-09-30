@@ -43,12 +43,12 @@ Airbnb is a two-sided marketplace: guests want the right place at the right pric
 | **Supply** | Manhattan and Brooklyn hold **85.4%** of listings; Queens adds 11.6%. Williamsburg (3,919) and Bedford-Stuyvesant (3,710) are the two largest neighbourhoods. |
 | **Room types** | Entire homes 52.0%, private rooms 45.7%, shared rooms 2.4%. |
 | **Pricing** | Median nightly price is **$106** (mean $153, pulled up by a long luxury tail); 44.7% of listings cost under $100. |
-| **Location premium** | Manhattan's median ($150) is 1.67x Brooklyn's ($90). The premium persists within each room type — entire homes: $191 vs $145; private rooms: $90 vs $65. |
+| **Location premium** | Manhattan's median ($150) is 1.67x Brooklyn's ($90). The premium persists within each room type - entire homes: $191 vs $145; private rooms: $90 vs $65. |
 | **Room type premium** | An entire home costs 2.3x a private room at the median ($160 vs $70). |
 | **Stay rules** | Listings with a 1-night minimum average **1.60 reviews per month**, versus **0.30** for listings requiring 8+ nights. |
-| **Price vs. engagement** | Review rates stay at roughly 1.0–1.2 per month through the $200 mark and fall to 0.68 at $500+, where 40% of listings have never been reviewed (18% in the $50–99 band). |
+| **Price vs. engagement** | Review rates stay at roughly 1.0-1.2 per month through the $200 mark and fall to 0.68 at $500+, where 40% of listings have never been reviewed (18% in the $50–$99 band). |
 | **Availability** | 35.9% of listings show zero open days in the next 365. |
-| **Hosts** | 343 hosts with 6+ listings control 9.8% of all listings — 13.6% in Manhattan vs 5.5% in Brooklyn — and keep inventory open far longer (median 310 available days vs 6 for single-listing hosts). |
+| **Hosts** | 343 hosts with 6+ listings control 9.8% of all listings - 13.6% in Manhattan vs 5.5% in Brooklyn - and keep inventory open far longer (median 310 available days vs 6 for single-listing hosts). |
 | **Statistics** | Borough explains a large share of price variation (Kruskal-Wallis, ε² = 0.144); a random Manhattan entire home costs more than a random Brooklyn one 66.9% of the time (Mann-Whitney). |
 
 ## Dataset
