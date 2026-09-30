@@ -8,7 +8,7 @@
 
 Exploratory data analysis of **48,895 New York City Airbnb listings (2019)**. The project cleans and validates the raw data, then answers four business questions: where supply is concentrated, how prices behave, which listing decisions coincide with stronger guest engagement, and how much of the market is run by professional multi-listing hosts.
 
-**Notebook:** [`Airbnb_Bookings_Analysis.ipynb`](Airbnb_Bookings_Analysis.ipynb) — fully executed, with all charts rendered inline.
+**Notebook:** [`Airbnb_Bookings_Analysis.ipynb`](Airbnb_Bookings_Analysis.ipynb) - fully executed, with all charts rendered inline.
 
 ---
 
