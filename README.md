@@ -31,7 +31,7 @@ Airbnb is a two-sided marketplace: guests want the right place at the right pric
 
 | Question | Focus |
 |---|---|
-| **Supply** | Where are listings concentrated — borough, neighbourhood, room type? |
+| **Supply** | Where are listings concentrated - borough, neighbourhood, room type? |
 | **Pricing** | What does a typical nightly price look like, and what drives it? |
 | **Engagement** | Which price points and stay policies coincide with more guest reviews? |
 | **Hosts** | How much of the market is run by single-property hosts versus professional operators? |
