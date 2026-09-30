@@ -54,7 +54,7 @@ Airbnb is a two-sided marketplace: guests want the right place at the right pric
 ## Dataset
 
 - **Source:** [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) on Kaggle (2019 snapshot).
-- **Size:** 48,895 rows × 16 columns — one row per listing.
+- **Size:** 48,895 rows × 16 columns - one row per listing.
 - **Not bundled:** the CSV is not committed to this repository. See [`data/README.md`](data/README.md) for download instructions.
 
 | Column group | Columns |
@@ -69,13 +69,13 @@ Airbnb is a two-sided marketplace: guests want the right place at the right pric
 
 The whole workflow lives in one notebook and follows a repeatable pipeline.
 
-1. **Audit** — data types, missing values, duplicates, outliers and impossible values.
-2. **Clean** — a single `clean_listings()` function that logs how many rows each step affects.
-3. **Engineer features** — ordered price bands, minimum-stay bands and host segments (single, 2–5, 6+ listings).
-4. **Validate** — assertion checks stop the notebook if the cleaned data breaks an expectation.
-5. **Explore** — 17 charts organised as univariate, bivariate and multivariate analysis, each with a stated rationale and the numbers behind it.
-6. **Test** — Kruskal-Wallis and Mann-Whitney tests with effect sizes, since price is far from normal.
-7. **Recommend** — findings translated into actions, with limitations stated openly.
+1. **Audit**: data types, missing values, duplicates, outliers and impossible values.
+2. **Clean**: a single `clean_listings()` function that logs how many rows each step affects.
+3. **Engineer features**: ordered price bands, minimum-stay bands and host segments (single, 2–5, 6+ listings).
+4. **Validate**: assertion checks stop the notebook if the cleaned data breaks an expectation.
+5. **Explore**: 17 charts organised as univariate, bivariate and multivariate analysis, each with a stated rationale and the numbers behind it.
+6. **Test**: Kruskal-Wallis and Mann-Whitney tests with effect sizes, since price is far from normal.
+7. **Recommend**: findings translated into actions, with limitations stated openly.
 
 ### Data cleaning decisions
 
